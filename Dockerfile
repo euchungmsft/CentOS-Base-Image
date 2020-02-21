@@ -10,5 +10,5 @@ LABEL org.label-schema.schema-version="1.0" \
     org.opencontainers.image.vendor="CentOS" \
     org.opencontainers.image.licenses="GPL-2.0-only" \
     org.opencontainers.image.created="2020-01-14 00:00:00-08:00"
- 
+
 CMD ["/bin/bash"]
